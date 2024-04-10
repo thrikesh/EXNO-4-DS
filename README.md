@@ -24,6 +24,73 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/debe4715-16ed-4cf4-8de3-5302028347a6)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/f6eceda7-fb68-4a13-b8a0-b9907b84a80f)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/164fd356-fab7-4202-a4d9-c725dc7b4570)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/c501b15a-5931-4277-8676-f156c9edb7eb)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/f8289319-0099-4711-b261-d471d222f36d)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/ef4ee069-3220-4e27-af01-34e6372de96b)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/51d16265-10f9-4b2e-a44d-5d4a39561d25)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/bc00af70-02b7-4ab1-98e9-8fe6eaf66cad)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/34419558-3ff1-45f7-9b92-d6e59e69200f)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/febccf81-7272-4fab-b35e-b33c10bea1dc)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/83007acb-755c-43ec-a955-00a4afb1ab4d)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/df07d9fd-8041-4484-ae7f-05971ffcc622)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/1be0c7df-33ed-432f-b9ba-0c3460f611a1)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/cf319aea-677e-4384-a3de-59db4287ca6a)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/bf23a9b5-f929-41c0-83ef-87eb0017a7b4)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/61328959-eab1-42ae-b802-34ac3a39de2c)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/6f93b288-9e22-48c5-a69a-562f2c4f0eca)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/0aa07cc1-9884-4164-a30f-aae298910411)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/172f40b4-abf6-4c17-a09e-0dafb37f9e6b)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/55c69177-938a-4092-b348-bfc47cb06ff4)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/e8d9168a-0880-41f1-9c68-3c1f8ac1ac14)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/f66dbb12-4a89-45ef-9f71-bae0f3024d91)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/c0f3f2a0-77c0-4553-a810-c3ddd2fe2dcd)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/e4ede4c4-459a-49d1-80d1-74793fec5e86)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/055e0910-32a5-45d4-af45-800095f95eaf)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/49004ac9-dc39-4299-b45c-5ba89e3e5c84)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/6907fee4-1565-4e35-a401-1b1fb0c06696)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/bb180d7a-e423-4efb-a24d-1f630cebb069)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/af62bbfa-54e1-4a65-9ed0-a874bc7365ed)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/c5e7cb84-6f6a-40c3-bf62-18504562e0b4)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/cdfab1d2-f445-4271-80dc-f763d6eb7484)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/134793e8-e1c7-4b8b-9892-3fad4465fe4b)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/b505cc2d-7119-4434-8359-88060930401f)
+
+![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/09b32556-81e3-429c-bf14-b52656f4df7f)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is been executed.
