@@ -86,11 +86,5 @@ The feature selection techniques used are:
 
 ![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/cdfab1d2-f445-4271-80dc-f763d6eb7484)
 
-![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/134793e8-e1c7-4b8b-9892-3fad4465fe4b)
-
-![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/b505cc2d-7119-4434-8359-88060930401f)
-
-![image](https://github.com/DHARINIPV/EXNO-4-DS/assets/119400845/09b32556-81e3-429c-bf14-b52656f4df7f)
-
 # RESULT:
 Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is been executed.
